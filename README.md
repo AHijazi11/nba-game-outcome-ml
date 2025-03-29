@@ -197,10 +197,10 @@ All files are saved to the `./New_data/` folder:
 
 ## ⚙️ Customization
 
-To change the NBA season pulled, edit this line near the top of the script:
+To change the NBA seasons pulled, edit this line near the top of the script:
 
 ```python
-season = 2024
+seasons = [2020, 2021, 2022, 2023, 2024]
 ```
 
 ---
