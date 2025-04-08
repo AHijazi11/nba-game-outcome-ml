@@ -1,3 +1,5 @@
+**Note**: This project was refactored to be more modular and replace csv files with Postgre SQL database and a Streamlit App hosted on Herok for continuous data updates, predictions, and model training. The new repo and Streamlit App can be viewed here: [Repo](https://github.com/AHijazi11/nba-game-prediction-heroku-streamlit) | [Streamlit](https://nba-game-predictions-streamlit-49d83933a063.herokuapp.com/)
+
 # 🏀 NBA Game Outcome Prediction – Project Overview
 
 I started this project because I thought it would be fun to apply machine learning techniques to NBA game predictions. My goal was not only to challenge myself with a complex, real-world dataset but also to explore the potential of these models for making informed bets if the predictions proved accurate enough.
